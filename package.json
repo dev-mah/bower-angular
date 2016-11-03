@@ -1,14 +1,14 @@
 {
-  "name": "angular",
-  "version": "1.5.9-build.5101+sha.0ff10e1",
-  "description": "HTML enhanced for web apps",
+  "name": "angular-umd",
+  "version": "0.0.1",
+  "description": "Angular umd",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/angular.js.git"
+    "url": "git+https://github.com/dev-mah/bower-angular-umd.git"
   },
   "keywords": [
     "angular",
@@ -16,10 +16,17 @@
     "browser",
     "client-side"
   ],
-  "author": "Angular Core Team <angular-core+npm@google.com>",
+  "author": "Mahmoud Abdulhalim <mahmoud@abdulhalim.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angular/angular.js/issues"
+    "url": "https://github.com/dev-mah/bower-angular-umd/issues"
   },
-  "homepage": "http://angularjs.org"
+  "homepage": "http://angularjs.org",
+  "dependencies": {
+    "babel-cli": "^6.18.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "yuicompressor": "^2.4.8"
+  }
 }
