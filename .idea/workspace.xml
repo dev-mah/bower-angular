@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2a5eef8-8481-4596-9e51-9dd1a02a2a4b" name="Default" comment="export window.angular">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+    <list default="true" id="b2a5eef8-8481-4596-9e51-9dd1a02a2a4b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular.es6" afterPath="$PROJECT_DIR$/angular.es6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular.js" afterPath="$PROJECT_DIR$/angular.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular.js.map" afterPath="$PROJECT_DIR$/angular.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular.min.js" afterPath="$PROJECT_DIR$/angular.min.js" />
     </list>
     <ignored path="bower-angular-umd.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,8 +28,8 @@
       <file leaf-file-name="angular.es6" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/angular.es6">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="32740" column="0" selection-start-line="32740" selection-start-column="0" selection-end-line="32740" selection-end-column="0" />
+            <state relative-caret-position="302">
+              <caret line="32743" column="5" selection-start-line="32743" selection-start-column="5" selection-end-line="32743" selection-end-column="5" />
               <folding>
                 <marker date="1478193414000" expanded="true" signature="22918:23552" ph="..." />
                 <marker date="1478193414000" expanded="true" signature="22964:23451" ph="..." />
@@ -921,6 +916,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -1097,12 +1095,20 @@
       <workItem from="1478168751428" duration="3372000" />
       <workItem from="1478181631487" duration="14000" />
       <workItem from="1478181661647" duration="469000" />
-      <workItem from="1478192780894" duration="688000" />
+      <workItem from="1478192780894" duration="986000" />
     </task>
+    <task id="LOCAL-00001" summary="export window.angular">
+      <created>1478193677900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1478193677900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4543000" />
+    <option name="totallyTimeSpent" value="4841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="417" y="23" width="1023" height="829" extended-state="0" />
@@ -1140,6 +1146,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="export window.angular" />
     <option name="LAST_COMMIT_MESSAGE" value="export window.angular" />
   </component>
@@ -1232,8 +1239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angular.es6">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="32740" column="0" selection-start-line="32740" selection-start-column="0" selection-end-line="32740" selection-end-column="0" />
+        <state relative-caret-position="302">
+          <caret line="32743" column="5" selection-start-line="32743" selection-start-column="5" selection-end-line="32743" selection-end-column="5" />
           <folding>
             <marker date="1478193414000" expanded="true" signature="22918:23552" ph="..." />
             <marker date="1478193414000" expanded="true" signature="22964:23451" ph="..." />
